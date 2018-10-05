@@ -23,3 +23,6 @@ Did it work?
  {% raw %}
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
  {% endraw %}
+
+Website for help:
+https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
