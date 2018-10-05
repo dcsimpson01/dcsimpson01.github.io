@@ -10,7 +10,7 @@ This is a first test post. The page is powered by [Jekyll](http://jekyllrb.com) 
 I plan to use this blog to post about topics that I am studying in political science. I am excited that I can use this website to easily write short responses, use LaTeX to write math equations, and post findings from my data science work in R.
 
 ## LaTeX comments:
-I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), based on Markdown, to write in LaTeX. The below equation is an example pulled from the Kramdown site:
+I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), based on Markdown, to write in LaTeX. The below equation is an example pulled from the kramdown webpage:
 
 \$$
 \begin{align*}
@@ -28,30 +28,3 @@ I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), b
     \end{array} \right)
 \end{align*}
 $$
-
-
-```
-In line text is written as such: $$ 5 + 5 = 10 $$, with $$ block boundaries
-```
-I rewrote this equation with $$ 5 + 5 = 10 $$ as inline text.
-
-<!--
- {% raw %}
-  $$a^2 + b^2 = c^2$$ - note that all equations between these tags will not need escaping! 
- {% endraw %}
- -->
-
-Separated text is written with a \ before the dollar signs.
-```
-\$$
-\int_x^1 3f(x)dx
-$$
-```
-\$$
-\int_x^1 3f(x)dx
-$$
-
-
-
-
-
