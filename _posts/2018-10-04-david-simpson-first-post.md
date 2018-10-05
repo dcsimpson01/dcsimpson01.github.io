@@ -41,7 +41,7 @@ $$
 \int_x^1 3f(x)dx
 $$
 
-I am excited about
+I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), based on Markdown, to write in LaTeX
 
 \$$
 \begin{align*}
@@ -60,6 +60,9 @@ I am excited about
 \end{align*}
 $$
 
+'''
+$$ 5 + 5 $$
+'''
 
 But next comes a paragraph with an inline math statement:$$ 5 + 5 $$
 
