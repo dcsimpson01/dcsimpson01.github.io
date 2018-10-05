@@ -26,3 +26,12 @@ Did it work?
 
 Website for help:
 https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
+
+Test again:
+test 1 [](raw: 3x^2)
+test 2 []($raw: 3x^2$)
+test 3 []($$raw: 3x^2$$)
+
+test 4 [](raw: \int_x^1 3x^2)
+test 5 []($raw: \int_x^1 3x^2$)
+test 6 []($$raw: \int_x^1 3x^2$$)
