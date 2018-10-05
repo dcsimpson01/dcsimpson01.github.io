@@ -6,7 +6,7 @@ date: 2018-10-04
 
 This is a first test post. I plan to use this blog to post about topics that I am studying in political science. The page is powered by [Jekyll](http://jekyllrb.com) and I use Markdown to author my posts.
 
-Test writing with latex: $int_{x}^1f(x)dx$ for inline test.
+Test writing with latex: $\int_{x}^1f(x)dx$ for inline test.
 Test2: writing with latex: \(\int_{x}^1f(x)dx\) for inline test.
 
 
@@ -35,5 +35,5 @@ test 3 []($$raw: 3x^2$$)
 test 4 [](raw: \int_x^1 3x^2)
 test 5 []($raw: \int_x^1 3x^2$)
 test 6 []($$raw: \int_x^1 3x^2$$)
-One more time
+One more time and again.
 
