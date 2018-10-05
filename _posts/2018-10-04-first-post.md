@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "David Simpson, First Post"
 date: 2018-10-04
 ---
