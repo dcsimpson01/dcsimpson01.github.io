@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "Getting Started"
 date: 2018-10-04
 ---
 ## What this is:
@@ -9,39 +9,8 @@ This is a first test post. The page is powered by [Jekyll](http://jekyllrb.com) 
 ## Where it is going:
 I plan to use this blog to post about topics that I am studying in political science. I am excited that I can use this website to easily write short responses, use LaTeX to write math equations, and post findings from my data science work in R.
 
-$$y =3x+4$$
-
-Test 2:
-\[y =3x+4\]
-
-
-Did it work?
-
- {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
-
-Website for help:
-https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages
-
-Test again:
-test 1 [](raw: 3x^2)
-test 2 []($raw: 3x^2$)
-test 3 []($$raw: 3x^2$$)
-
-test 4 [](raw: \int_x^1 3x^2)
-test 5 []($raw: \int_x^1 3x^2$)
-test 6 []($$raw: \int_x^1 3x^2$$)
-One more time and again.
-
-Will anything work?
-
-More testing
-$$
-\int_x^1 3f(x)dx
-$$
-
-I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), based on Markdown, to write in LaTeX
+## LaTeX comments:
+I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), based on Markdown, to write in LaTeX. The below equation is an example pulled from the Kramdown site:
 
 \$$
 \begin{align*}
@@ -60,9 +29,29 @@ I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), b
 \end{align*}
 $$
 
-```
-$$ 5 + 5 $$
-```
 
-But next comes a paragraph with an inline math statement:$$ 5 + 5 $$
+```
+In line text is written as such: $$ 5 + 5 = 10 $$, with $$ block boundaries
+```
+I rewrote this equation with $$ 5 + 5 = 10 $$ as inline text.
+
+<!--
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ - note that all equations between these tags will not need escaping! 
+ {% endraw %}
+ -->
+
+Separated text is written with a \ before the dollar signs.
+```
+\$$
+\int_x^1 3f(x)dx
+$$
+```
+\$$
+\int_x^1 3f(x)dx
+$$
+
+
+
+
 
