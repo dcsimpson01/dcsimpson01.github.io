@@ -3,10 +3,10 @@ layout: post
 title: "First Post"
 date: 2018-10-04
 ---
-### What this is:
+## What this is:
 This is a first test post. The page is powered by [Jekyll](http://jekyllrb.com) and I will use Markdown, and ocassionally html to author my posts.
 
-### Where it is going:
+## Where it is going:
 I plan to use this blog to post about topics that I am studying in political science. I am excited that I can use this website to easily write short responses, use LaTeX to write math equations, and post findings from my data science work in R.
 
 $$y =3x+4$$
@@ -42,7 +42,8 @@ $$
 $$
 
 I am excited about
-   $$
+
+\$$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
   = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
@@ -57,8 +58,8 @@ I am excited about
       y_n
     \end{array} \right)
 \end{align*}
-   $$
+$$
 
 
-But next comes a paragraph with an inline math statement:\$$ 5 + 5 $$
+But next comes a paragraph with an inline math statement:$$ 5 + 5 $$
 
