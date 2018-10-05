@@ -60,9 +60,9 @@ I am using [kramdown](https://kramdown.gettalong.org/syntax.html#math-blocks), b
 \end{align*}
 $$
 
-'''
+```
 $$ 5 + 5 $$
-'''
+```
 
 But next comes a paragraph with an inline math statement:$$ 5 + 5 $$
 
