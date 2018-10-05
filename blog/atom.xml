@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://dcsimpson01.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://dcsimpson01.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://dcsimpson01.github.io/blog</id>
 	<author>
 		<name>David Simpson</name>
 		<email>dcsimpson01@gmail.com</email>
