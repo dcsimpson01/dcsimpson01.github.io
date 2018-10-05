@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "David Simpson, First Post"
+title: "First Post"
 date: 2018-10-04
 ---
-# David Simpson Edits
+### What this is:
+This is a first test post. The page is powered by [Jekyll](http://jekyllrb.com) and I will use Markdown, and ocassionally html to author my posts.
 
-This is a first test post. I plan to use this blog to post about topics that I am studying in political science. The page is powered by [Jekyll](http://jekyllrb.com) and I use Markdown to author my posts.
-
-Test writing with latex: $\int_{x}^1f(x)dx$ for inline test.
-Test2: writing with latex: \(\int_{x}^1f(x)dx\) for inline test.
-
-And centered text writing:
+### Where it is going:
+I plan to use this blog to post about topics that I am studying in political science. I am excited that I can use this website to easily write short responses, use LaTeX to write math equations, and post findings from my data science work in R.
 
 $$y =3x+4$$
 
@@ -41,11 +38,10 @@ Will anything work?
 
 More testing
 $$
-\begin{displaymath}
 \int_x^1 3f(x)dx
-\end{displaymath}
 $$
-More
+
+I am excited about
    $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -63,11 +59,6 @@ More
 \end{align*}
    $$
 
-The following is a math block:
 
-$$ 5 + 5 $$
+But next comes a paragraph with an inline math statement:\$$ 5 + 5 $$
 
-But next comes a paragraph with an inline math statement:
-
-\$$ 5 + 5 $$
-Test
