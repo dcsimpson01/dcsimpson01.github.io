@@ -45,7 +45,7 @@ $$
 \end{displaymath}
 $$
 More
-$$
+   $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
   = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
@@ -60,7 +60,7 @@ $$
       y_n
     \end{array} \right)
 \end{align*}
-$$
+   $$
 
 The following is a math block:
 
