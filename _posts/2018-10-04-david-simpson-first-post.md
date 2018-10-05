@@ -4,7 +4,7 @@ title: "Getting Started"
 date: 2018-10-04
 ---
 ## What this is:
-This is a first test post. The page is powered by [Jekyll](http://jekyllrb.com) and I will use Markdown, and ocassionally html to author my posts.
+This is a first test post. The page is powered by [Jekyll](http://jekyllrb.com) and I will use Markdown, and ocassionally HTML to author my posts.
 
 ## Where it is going:
 I plan to use this blog to post about topics that I am studying in political science. I am excited that I can use this website to easily write short responses, use LaTeX to write math equations, and post findings from my data science work in R.
