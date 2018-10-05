@@ -2,9 +2,6 @@
 layout: feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-</script>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>David Simpson's Blog</title>
