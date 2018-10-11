@@ -19,4 +19,7 @@ ggplot(data, aes(RUSH,RUSH.YDS,col=factor(POSITION)))+
 <!--
 ![](2018-10-11-RushingYards_files/graphs-1.png)
 from images -->
+
+This is a test
+
 ![](/images/graphs-1.png)<!-- -->
