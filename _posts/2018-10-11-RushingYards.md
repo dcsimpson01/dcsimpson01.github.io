@@ -16,6 +16,7 @@ ggplot(data, aes(RUSH,RUSH.YDS,col=factor(POSITION)))+
   geom_point()+
   labs(x ="Attempts", y= "Yards", title = "Rushing Attempts and Yard by Position", color="Position")
 ```
-![](2018-10-11-RushingYards_files/graphs-1.png)<!-- -->
-from images
+<!--
+![](2018-10-11-RushingYards_files/graphs-1.png)
+from images -->
 ![](/images/graphs-1.png)<!-- -->
