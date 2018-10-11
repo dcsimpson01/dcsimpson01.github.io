@@ -2,7 +2,7 @@
 layout: post
 title: "Rushing Yards"
 date: 2018-10-11
-image: graphs-1.png
+image: 2018-10-11-RushingYards.png
 ---
 
 ## Rushing Yards through October 9, 2018
