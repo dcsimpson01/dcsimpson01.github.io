@@ -1,6 +1,7 @@
 ----
 layout: post
 title: Rushing Yards Post
+date: 2018-10-11
 ---
 
 Here's a quick post using NCAA rushing data. The data was downloaded from the [NCAA website](https://www.ncaa.com/stats/football/fbs/current/individual/469) on October 11, 2018.
