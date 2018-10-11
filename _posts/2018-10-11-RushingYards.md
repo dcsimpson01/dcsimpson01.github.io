@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rushing Yards Post"
+title: "Rushing Yards"
 date: 2018-10-11
 ---
 
@@ -16,5 +16,4 @@ ggplot(data, aes(RUSH,RUSH.YDS,col=factor(POSITION)))+
   labs(x ="Attempts", y= "Yards", title = "Rushing Attempts and Yard by Position", color="Position")
 ```
 
-![](2018-10-11-RushingYards_files/figure-markdown_github/graphs-1.png)
-![](dcsimpson01.github.io/_posts/2018-10-11-RushingYards__files/graphs-1.png)
+![](https://dcsimpson01.github.io/_posts/2018-10-11-RushingYards_files/graphs-1.png)
