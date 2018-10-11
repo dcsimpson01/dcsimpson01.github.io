@@ -21,6 +21,7 @@ ggplot(data, aes(RUSH,RUSH.YDS,col=factor(POSITION)))+
 	<img src="https://dcsimpson01.github.io/_posts/2018-10-11-RushingYards_files/graphs-1.png" alt="Test", width="50%" height="50%"/> 
   <img src="https://dcsimpson01.github.io/docs/graphs-1.png" alt="Test2", width="50%" height="50%"/> 
   <p> Here's to hoping htis works</p>
+	<img src="https://dcsimpson01.github.io/docs/David_Bike.jpg" alt="David with Bike", width="50%" height="50%"/> 
 	
 	
 </div><!-- /.blurb -->
