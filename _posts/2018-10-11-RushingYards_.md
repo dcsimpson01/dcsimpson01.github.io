@@ -1,3 +1,8 @@
+---
+layout: post
+title: Rushing Yards
+---
+
 RushingYards
 ================
 David Simpson
