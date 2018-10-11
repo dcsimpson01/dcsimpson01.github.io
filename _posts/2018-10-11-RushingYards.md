@@ -1,6 +1,6 @@
 ----
 layout: post
-title: Rushing Yards Post
+title: "Rushing Yards Post"
 date: 2018-10-11
 ---
 
