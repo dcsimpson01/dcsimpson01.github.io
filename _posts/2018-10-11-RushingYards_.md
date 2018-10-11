@@ -5,9 +5,6 @@ title: Rushing Yards
 
 RushingYards
 ================
-David Simpson
-2018-10-11
-
 Rushing Yards through October 9, 2018
 =====================================
 
