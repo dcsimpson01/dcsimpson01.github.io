@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "RushingYards"
-author: "David Simpson"
-date: "2018-10-11"
-output: html_document
+title: "Trial"
 ---
 # Rushing Yards through October 9, 2018
 
