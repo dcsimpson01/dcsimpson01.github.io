@@ -23,4 +23,6 @@ Test
 ![](dcsimpson01.github.io/_posts/2018-10-11-RushingYards_files/graphs-1.png)
 
 Test again
+<div>
 	<img src="dcsimpson01.github.io/_posts/2018-10-11-RushingYards_files/graphs-1.png" alt="Image", width="50%" height="50%"/> 
+</div>
