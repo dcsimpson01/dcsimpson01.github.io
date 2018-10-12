@@ -14,7 +14,8 @@ Below is just a simple graph showing the relationship between rushing attempts a
 ``` r
 ggplot(data, aes(RUSH,RUSH.YDS,col=factor(POSITION)))+
   geom_point()+
-  labs(x ="Attempts", y= "Yards", title = "Rushing Attempts and Yard by Position", color="Position")
+  labs(x ="Attempts", y= "Yards", 
+  title = "Rushing Attempts and Yard by Position", color="Position")
 ```
 
 ![](/images/2018-10-11-RushingYards.png)<!-- -->
