@@ -7,16 +7,16 @@ date: "2018-10-19"
 
 ## Reproducing Clinton (2016)
 
-I recently read Joshua Clinton's "Representation in Congress: Constituents and Roll Calls in the 106th House," a [research paper](https://www.jstor.org/stable/10.1111/j.1468-2508.2006.00415.x?pq-origsite=summon&seq=1#metadata_info_tab_contents) published in *The Journal of Politics* in 2006. Clinton (2006) studies the relationship between district level ideology scores and US House Representative's policy preferences as revealed through their voting behavior. Clinton (2006) finds that Republican House legislators in the 106th Congress (January 3, 1999 – January 3, 2001) are only responsive to their same-party district level constituents, whereas Democratic legislators are only responsive their nonsame-party district level constituents. Clinton's findings are puzzling. It is strange that Democratic legislators would be unresponsive to their same-party constituents.
+I recently read Joshua Clinton's "Representation in Congress: Constituents and Roll Calls in the 106th House," a [research paper](https://www.jstor.org/stable/10.1111/j.1468-2508.2006.00415.x?pq-origsite=summon&seq=1#metadata_info_tab_contents) published in *The Journal of Politics* in 2006. Clinton studies the relationship between district level ideology scores and US House Representative's policy preferences as revealed through their voting behavior. Clinton finds that Republican House legislators in the 106th Congress (January 3, 1999 – January 3, 2001) are only responsive to their same-party district level constituents, whereas Democratic legislators are only responsive their nonsame-party district level constituents. Clinton's findings are puzzling. It is strange that Democratic legislators would be unresponsive to their same-party constituents.
 
-Clinton (2016)'s definition of nonsame-party voters includes both independents and voters who identify with the opposite party of their elected representative. My hypothesis is that Clinton (2016)'s finding - that Democratic legislators are only responsive to their nonsame-party district level constituents - is contingent on how independent voters are classified. I plan to review his findings over the coming weeks. Clinton's replication data is available online through [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10573). 
+Clinton's definition of nonsame-party voters includes both independents and voters who identify with the opposite party of their elected representative. My hypothesis is that Clinton's finding - that Democratic legislators are only responsive to their nonsame-party district level constituents - is contingent on how independent voters are classified. I plan to review his findings over the coming weeks. Clinton's replication data is available online through [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10573). 
 
 
 
 
 
 ## Revisiting Figure 1
-To start the conversation, I have reproduced the four graphs Figure 1 of Clinton (2016). The graphs portray constituent survey data and representative ideal points - which measure's representative ideology using House roll call votes.
+To start the conversation, I have reproduced the four graphs Figure 1 of Clinton. The graphs portray constituent survey data and representative ideal points - which measure's representative ideology using House roll call votes.
 
 
 
@@ -52,10 +52,10 @@ The third graph plots the ideological scores of constituents with the same-party
 
 The final graph plots the ideological scores of voters who do not identify with their legislator's party against the ideological scores of voters who do identify with their legislator's party. As expected, nonsame-party constituents are more conservative (liberal) than same-party constituents with Democratic (Republican) legislators.
 
-Note: Graph 4 looks different than the fourth graph in Clinton (2016)'s Figure 1. In reviewing the replication code, I found that Clinton (2016) mislabeled the axes in the published paper.
+Note: Graph 4 looks different than the fourth graph in Clinton's Figure 1. In reviewing the replication code, I found that Clinton mislabeled the axes in the published paper.
 
 ## Hypothesis
-My hypothesis is that Clinton (2016)'s finding - that Democratic legislators are only responsive to their nonsame-party district level constituents - is contingent on how independent voters are classified. Figure 1 shows that Democratic legislators represent districts with a wide range of ideology scores. However, the voting score of Democratic legislators is still more liberal than the voting score of Republican legislators with identical district ideologies. I suspect that Democratic legislators representing conservative districts are sensitive to the concerns of both same-party voters and independent voters. Therefore classifying independent voters as nonsame-party voters masks this effect. I look forward to posting about these findings as I continue along this replication project.
+My hypothesis is that Clinton's finding - that Democratic legislators are only responsive to their nonsame-party district level constituents - is contingent on how independent voters are classified. Figure 1 shows that Democratic legislators represent districts with a wide range of ideology scores. However, the voting score of Democratic legislators is still more liberal than the voting score of Republican legislators with identical district ideologies. I suspect that Democratic legislators representing conservative districts are sensitive to the concerns of both same-party voters and independent voters. Therefore classifying independent voters as nonsame-party voters masks this effect. I look forward to posting about these findings as I continue along this replication project.
 
 ## References
 
