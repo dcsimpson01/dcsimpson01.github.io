@@ -5,11 +5,11 @@ author: "David Simpson"
 date: "2018-10-19"
 ---
 
-## Reproducing Clinton (2016)
+## Reproducing Clinton (2006)
 
 I recently read Joshua Clinton's "Representation in Congress: Constituents and Roll Calls in the 106th House," a [research paper](https://www.jstor.org/stable/10.1111/j.1468-2508.2006.00415.x?pq-origsite=summon&seq=1#metadata_info_tab_contents) published in *The Journal of Politics* in 2006. Clinton studies the relationship between district level ideology scores and US House Representative's policy preferences as revealed through their voting behavior. Clinton finds that Republican House legislators in the 106th Congress (January 3, 1999 – January 3, 2001) are only responsive to their same-party district level constituents, whereas Democratic legislators are only responsive their nonsame-party district level constituents. Clinton's findings are puzzling. It is strange that Democratic legislators would be unresponsive to their same-party constituents.
 
-Clinton's definition of nonsame-party voters includes both independents and voters who identify with the opposite party of their elected representative. My hypothesis is that Clinton's finding - that Democratic legislators are only responsive to their nonsame-party district level constituents - is contingent on how independent voters are classified. I plan to review his findings over the coming weeks. Clinton's replication data is available online through [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10573). 
+Clinton's definition of nonsame-party voters includes both independents and voters who identify with the opposite party of their elected representative. My hypothesis is that Clinton's finding - that Democratic legislators are only responsive to their nonsame-party district level constituents - is contingent on how independent voters are classified. I plan to review his findings over the coming weeks. Replication data is available online through [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/10573) (Clinton, 2009). 
 
 
 
