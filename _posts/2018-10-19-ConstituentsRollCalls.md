@@ -37,18 +37,18 @@ The first graph plots legislator ideological voting scores against the average i
 
 #### Plot 2 - Representative Induced Preference and Same-Party District Ideology
 
-![](/images/2018-10-19-ConstituentsRollCalls_files/figure-html/Plot 2-1.png)<!-- -->
+![](/images/2018-10-19-ConstituentsRollCalls_files/figure-html/Plot2-1.png)<!-- -->
 
 The second graph plots legislator scores against the average ideology of voters that self-identify with their legislator's political party. Compared to Figure 1, it is evident that same-party constituents have ideology scores that are on average more polarized (further to the left or right) than the average score of their district as a whole.
 
 #### Plot 3 - Distirct Same-Party Ideology and Average Ideology
-![](/images/2018-10-19-ConstituentsRollCalls_files/figure-html/Plot 3-1.png)<!-- -->
+![](/images/2018-10-19-ConstituentsRollCalls_files/figure-html/Plot3-1.png)<!-- -->
 
 The third graph plots the ideological scores of constituents with the same-party of their representative against the district wide average ideology scores. Notice that that there are Democratic representatives whose districts have both conservative district ideology scores and right-of-center same-party ideology scores. In contrast, there are no Republican districts with left of center same-party ideology scores.
 
 #### Plot 4 - Distirct Ideology: Nonsame-Party and Same-Party
 
-![](/images/2018-10-19-ConstituentsRollCalls_files/figure-html/Plot 4-1.png)<!-- -->
+![](/images/2018-10-19-ConstituentsRollCalls_files/figure-html/Plot4-1.png)<!-- -->
 
 The final graph plots the ideological scores of voters who do not identify with their legislator's party against the ideological scores of voters who do identify with their legislator's party. As expected, nonsame-party constituents are more conservative (liberal) than same-party constituents with Democratic (Republican) legislators.
 
