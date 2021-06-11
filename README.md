@@ -1,3 +1,4 @@
 # dcsimpson01.github.io
 
-This is the repository for my personal website.
+Site in progress. Please see [link](https://dcsimpson01.github.io/postcard/) to be redirected the temporary site.
+
