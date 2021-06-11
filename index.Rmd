@@ -1,19 +1,17 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "David Simpson"
+image: "david.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/in/dcsimpson01"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/DavidCSimpson"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/dcsimpson01"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:dcsimpson01@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+David Simpson is a Political Science doctoral student at Columbia University specializing in American Politics and Political Economy.
