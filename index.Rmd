@@ -2,6 +2,8 @@
 title: "David Simpson"
 image: "david.jpg"
 links:
+  - label: Website
+    url: "https://davidcsimpson.netlify.app"
   - label: LinkedIn
     url: "https://linkedin.com/in/dcsimpson01"
   - label: Twitter
