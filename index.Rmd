@@ -16,4 +16,4 @@ output:
   postcards::jolla
 ---
  
-David Simpson is a Political Science doctoral student at Columbia University specializing in American Politics and Political Economy.
+David is a data scientist, public policy analyst, and Political Science doctoral candidate at Columbia University. His academic specialties are American Politics and Political Economy.
